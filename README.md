@@ -63,3 +63,4 @@ You can also then creating custom styling based on the current condition:
 ## Old version
 
 This code is based on my [old Python gist](https://gist.github.com/bjesus/f8db49e1434433f78e5200dc403d58a3) that was used for the same purpose.
+# -wttrbar-hardened

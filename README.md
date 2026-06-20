@@ -19,7 +19,7 @@ wttrbar-hardened
 </p>
 
 ---
-🇧🇷 Made in Brazil. | 🇺🇸 English speakers: Please use your browser translator. Code is universal! 🌍
+🇧🇷 Nota: Este README está em português brasileiro intencionalmente. O código é universal, mas a documentação reflete nossa comunidade. English speakers: Feel free to use your browser's translator or contribute a translation via PR!
 
 ## 🔒 Principais Melhorias
 
